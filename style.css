@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-family: Funnel Display, Arial, Helvetica, sans-serif;
+  color: #FF5722;
+  font-style: italic;
+}
+
+.project1:hover {
+  filter:blur();
+}
+
+ol {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+ol:hover {
+  filter:blur();
+}
+
+canvas {
+  display: block;
+}
